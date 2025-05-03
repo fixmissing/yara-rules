@@ -1,0 +1,1249 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="preconnect" href="https://securepubads.g.doubleclick.net">
+    <link rel="preconnect" href="https://d5nxst8fruw4z.cloudfront.net">
+    <script type="text/javascript">
+    window.dataLayer = window.dataLayer || []
+    const userId = ""
+    window.dataLayer = window.dataLayer || []
+    const pageType = "article"
+    let contentPage = getContentPage(pageType)
+    dataLayer.push({
+        user_id: userId,
+        content_group: contentPage
+    });
+    localStorage.setItem('content_group', contentPage);
+
+    function getContentPage(){
+        let contentPage
+        switch (pageType) {
+        case 'home':
+            const actionPage = ""
+            if(actionPage == 'index'){
+                contentPage = "Homepage"
+            } else {
+                contentPage = "Page"
+            }
+            break;
+        case 'tags':
+            contentPage = "Tag Page"
+            break;
+        case 'komunitas/topics':
+        case 'komunitas/discussions':
+            contentPage = "Komunitas Page"
+            break;
+        case 'categories':
+            //Hidup Sehat Page, Keluarga Page and Kesehatan Page for index page
+            contentPage = 'Hidup Sehat'
+            break;
+        case 'article':
+            //Hidup Sehat Page, Keluarga Page and Kesehatan Page for article page
+            contentPage = 'Hidup Sehat' + " Page"
+            break;
+        case 'disease':
+            contentPage = "Disease Page"
+            break;
+        case 'drugs':
+            contentPage = "Drug Page"
+            break;
+        case 'komunitas/users':
+            contentPage = "Profile Page"
+            break;
+        default:
+            contentPage = "Page"
+            break;
+        }
+        return contentPage
+    }
+</script>
+
+<script defer type="text/javascript" src="https://static.criteo.net/js/ld/ld.js" defer></script>
+<script defer>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src=   
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-52W4MMF');</script>
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+    <title>Judi Online, Kenali Bahaya, Ciri-Ciri Kecanduan, dan Penanganannya - Alodokter</title>
+    <meta http-equiv="Pragma" content="public">
+    <meta http-equiv="Cache-Control" content="public">
+
+    <link rel="preload" href="/assets/lato/Lato-Regular-983b0caf336e8542214fc17019a4fc5e0360864b92806ca14d55c1fc1c2c5a0f.woff2" as="font" crossorigin>
+    <link rel="preload" href="/assets/lato/Lato-Bold-ae88fc0d7a961832f809527d30bd3983a6866d42f66a56ade23f543681594db6.woff2" as="font" crossorigin>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- CSS -->
+    <style>
+    html, body {
+        margin: 0 auto;
+        font-family: "Lato", sans-serif;
+        font-size: 16px;
+        color: #3b3738;
+        line-height: 1.44;
+        font-weight: 400;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-rendering: optimizeLegibility;
+        -moz-font-feature-settings: "liga" on;
+      }
+
+    input{
+       font-family: "Lato", sans-serif;
+    }
+
+      ::placeholder {
+        color: #dadee4;
+      }
+
+      /* GLOBAL CSS */
+      .container-fluid {
+        width: 1340px;
+        margin: 0 auto;
+        padding: 0;
+      }
+
+      blockquote {
+        box-sizing: border-box;
+        margin: 1.5em 0px;
+        padding: 0 8px;
+        border-left: 4px solid #3570d2;
+        font-weight: bold;
+      }
+
+      .container {
+        width: 1000px;
+        margin: 0 auto;
+        padding: 0;
+        display:flex;
+        justify-content: space-between;
+      }
+
+      .main-container {
+        width: 667px;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        padding-top: 45px;
+      }
+
+      .side-container {
+        width: 300px;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        padding-top: 45px;
+      }
+
+      .dfp-container {
+        margin-bottom: 20px;
+      }
+
+      .adunit {
+          margin-bottom: 20px;
+        }
+
+      .post-content {
+        line-height: 1.75;
+      }
+
+      a {
+          text-decoration: none;
+      }
+
+      .post-content a {
+          color: #3570d2;
+        }
+
+        p {
+          font-size: 16px;
+          margin: 10px 0;
+        }
+
+        h3 {
+          font-size: 17px;
+          font-weight: bold;
+          font-style: normal;
+          font-stretch: normal;
+          line-height: 1.32;
+          letter-spacing: -0.3px;
+          margin-top: 32px;
+          margin-bottom: 0;
+        }
+
+        h4 {
+          font-size: 17px;
+          font-weight: bold;
+          font-style: normal;
+          font-stretch: normal;
+          line-height: 1.32;
+          letter-spacing: -0.3px;
+          margin-top: 32px;
+          margin-bottom: 0;
+        }
+
+      .post-index-title{color:#000;}
+      .tag-label {
+        position: absolute;
+        padding: 0 10px;
+        border-radius: 10.5px;
+        color: #FFFFFF;
+        max-width: 100px;
+        height:21px;
+        text-align: center;
+        font-size: 12px;
+        line-height: 21px;
+      }
+
+      .tag-block { position: relative !important; margin: 0 0 10px 0; }
+        .label-keluarga { background-color: #6ACB02; }
+        .label-hidup-sehat { background-color: #DAB300; }
+        .label-kesehatan { background-color: #F85B06; }
+        .label-blue { background-color: #3570d2; }
+        .text-blue {color: #3570d2;}
+        .text-light-grey {color: #9e9e9e;}
+        .check {width: 14px;height: 14px;object-fit: contain;}
+
+      .tag-label-container {
+        height: 21px;
+        margin: 0 0 16px;
+      }
+
+      .title-tag-container {
+        margin-bottom: 17px;
+        color: #000000;
+      }
+
+      .title-tag-container h1 {
+        margin: 10px 0;
+        font-size: 24px;
+      }
+
+      .date-article {
+        margin-top: 11px;
+        height: 23px;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.92;
+        letter-spacing: normal;
+        color: #434343;
+        margin-bottom: 8px;
+      }
+
+      .share-button-container {
+        margin: 17px 0;
+      }
+
+      .share-button a {
+        text-decoration: none;
+      }
+
+      .share-button img {
+        margin-right: 10px;
+      }
+
+      .post-detail-container {
+        margin-bottom: 25px;
+        position: relative;
+      }
+
+      .post-detail-container iframe{
+        width: 100%;
+        height: 375px;
+      }
+
+      .post-detail-container img{
+        max-width: 667px;
+        height: auto;
+      }
+      h1{margin: 10px 0;}
+      .label-keluarga { background-color: #6ACB02; }
+      .label-hidup-sehat { background-color: #DAB300; }
+      .label-kesehatan { background-color: #F85B06; }
+      .label-blue { background-color: #3570d2; }
+
+      .adunit {
+        margin-bottom: 20px;
+	}
+
+    .related-doctor {
+      margin: 20px 0;
+      width: 300px;
+    }
+      .related-doctor h3 {
+        font-size: 24px;
+        font-weight: 900;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.42;
+        letter-spacing: normal;
+        color: #000000;
+        margin-top: 0;
+        margin-bottom: 12px;
+      }
+
+      /* table style */
+      table td {
+          border-top: 1px solid #ddd;
+          padding: 6px 10px 6px 0;
+      }
+      .h2-related{
+        font-size: 24px;
+        font-weight: 900;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.42;
+        letter-spacing: normal;
+        color: #000000;
+        margin-top: 20px;
+        margin-bottom: 12px;
+      }
+      .h2-related-article{
+        font-size: 24px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.32;
+        letter-spacing: -0.3px;
+        margin: 0;
+        margin-bottom: 20px;
+        color: #000;
+      }
+      .hide{display: none;}
+
+      .wall-container {
+        bottom: 0px;
+        position: absolute;
+        width: 100%;
+        padding: 102px 0 50px 0;
+        text-align: center;
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0) -36.19%, #FFFFFF 26.05%);
+      }
+      .wall-container p {
+        font-size: 18px;
+        font-weight: 600;
+        color: #424242;
+        margin: 0;
+      }
+      .wall-container .button {
+        display: block;
+        width: 264px;
+        height: 44px;
+        line-height: 44px;
+        color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 600;
+        margin: auto;
+        background-color: #3570D2;
+        border: 0;
+        border-radius: 5px;
+        text-decoration: none;
+        text-align: center;
+        margin-top: 24px;
+      }
+
+      .grecaptcha-badge { visibility: hidden; }
+</style>
+
+    <!-- CSS -->
+
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, maximum-scale=5" >
+<!-- Favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-73b49b1e9302b388560f5836153dcf6a1ec42c607c96fc65d5b29e773c85374a.ico" />
+<link rel="icon" type="image/png" href="/assets/favicon-48x48-fe366add8379860e5ee5041f0b6b9745ff450a945001d5f04fd8a0d706837ea6.png" sizes="48x48" />
+<link rel="apple-touch-icon" type="image/png" href="/assets/apple-touch-icon-fbe9a22f2fc74b52818c962ab91b40031f1e6dd2d614f376eb1efcc03c5bba0b.png" sizes="192x192" />
+
+<meta name="apple-mobile-web-app-title" content="Alodokter">
+<meta name="application-name" content="Alodokter">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="apple-mobile-web-app-status-bar-style" content="#3973cf">
+<meta name="theme-color" content="#3973cf">
+
+<meta name="alexaVerifyID" content="n_Kykr_OZlOYYRDisl_bHGZYccc">
+<meta name="google-site-verification" content=j8xshrH7uBo3AEjk-HfjufpapvzwkNHw57NXFN3G07Y>
+<meta name="msvalidate.01" content=C233DAA628883F2DD70CD54C789D0494>
+<meta name="postid" content="1908300">
+<meta name="posttype" content="post">
+<meta name="remarketing_tags" content="gangguan-mental, kesehatan-mental">
+<meta name="wellness_card" content="false">
+<meta name="criteo_account" content="62444">
+<meta name="description" content="Judi online adalah permainan yang biasanya berbentuk kartu dalam sebuah aplikasi atau website. Melalui permainan ini, pemain menaruh jaminan uang untuk dijadikan bahan taruhan dan berharap" />
+<meta name="keywords" content="alodokter, kesehatan, medis, penyakit, komunitas kesehatan, dokter, konsultasi kesehatan, informasi kesehatan, komunitas, diskusi kesehatan, hidup sehat, gangguan-mental, kesehatan-mental" />
+<meta name="facebook-domain-verification" content="v9k4b24zt24dxdo39v3ab3gnt5ns5b" />
+
+<meta property="fb:app_id" content="331705120345014" />
+<meta property="og:site_name" content="Alodokter" />
+<meta property="og:type" content="post" />
+<meta property="og:title" content="Judi Online, Kenali Bahaya, Ciri-Ciri Kecanduan, dan Penanganannya" />
+<meta property="og:url" content="https://www.alodokter.com/judi-online-kenali-bahaya-ciri-ciri-kecanduan-dan-penanganannya" />
+<meta property="og:description" content="Judi online adalah permainan yang biasanya berbentuk kartu dalam sebuah aplikasi atau website. Melalui permainan ini, pemain menaruh jaminan uang untuk dijadikan bahan taruhan dan berharap" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:updated_time" content="2025-01-21T14:36:13+07:00" />
+<meta property="og:image" itemprop="image" content="https://res.cloudinary.com/dk0z4ums3/image/upload/v1725437503/attached_image/judi-online-kenali-bahaya-ciri-ciri-kecanduan-dan-penanganannya.jpg" />
+
+<meta property="og:image:width" content="650" />
+<meta property="og:image:height" content="433" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2024-09-04T15:11:39+07:00" />
+<meta property="article:modified_time" content="2025-01-21T14:36:13+07:00" />
+<meta property="article:author" content="https://www.alodokter.com/author/firdha-syafana-2/" />
+<meta property="article:publiher" content="https://www.alodokter.com/" />
+<meta property="article:section" content="Hidup Sehat" />
+<meta property="article:tag" content="hidup sehat" />
+<!-- default -->
+<meta property="article:tag" content="alodokter" />
+<meta property="article:tag" content="kesehatan"/>
+<meta property="article:tag" content="medis" />
+<meta property="article:tag" content="penyakit" />
+<meta property="article:tag" content="komunitas kesehatan" />
+<meta property="article:tag" content="dokter" />
+<meta property="article:tag" content="konsultasi kesehatan" />
+<meta property="article:tag" content="informasi kesehatan" />
+
+
+<meta property="article:tag" content="gangguan-mental" />
+<meta property="article:tag" content="kesehatan-mental" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Judi Online, Kenali Bahaya, Ciri-Ciri Kecanduan, dan Penanganannya" />
+<meta name="twitter:description" content="Judi online adalah permainan yang biasanya berbentuk kartu dalam sebuah aplikasi atau website. Melalui permainan ini, pemain menaruh jaminan uang untuk dijadikan bahan taruhan dan berharap" />
+<meta name="twitter:image:src" content="https://res.cloudinary.com/dk0z4ums3/image/upload/v1725437503/attached_image/judi-online-kenali-bahaya-ciri-ciri-kecanduan-dan-penanganannya.jpg" />
+<meta name="twitter:image:width" content="650" />
+<meta name="twitter:image:height" content="433" />
+
+    <link rel="alternate" href="android-app://com.alodokter.android/http/www.alodokter.com/judi-online-kenali-bahaya-ciri-ciri-kecanduan-dan-penanganannya">
+<link rel='canonical' href='https://www.alodokter.com/judi-online-kenali-bahaya-ciri-ciri-kecanduan-dan-penanganannya' />
+<meta name="referer" content="http://www.google.com" />
+<meta name="platform" content="Desktop" />
+<meta name="recaptcha-site-key" content="6Ldg7gQhAAAAAN8ebL4Gr-hTid51r0i9BpsdaEWE" />
+
+            <script src="https://www.google.com/recaptcha/enterprise.js?render=6Ldg7gQhAAAAAN8ebL4Gr-hTid51r0i9BpsdaEWE"></script>
+        
+
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="xO6jW2IvqSNgFqML6qa8MMdljmj+3m1WK5+l2GZJJYhiTTVqA8sKwOvlKM2byCiyJYVl34tYAtY+BQ8IfS8kRQ==" />
+
+    <!-- Facebook Pixel Code -->
+    
+    <script>
+    setTimeout(function(){
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}
+        (window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '948327898593359');
+        fbq('track', "PageView");
+    }, 3500);
+    </script>
+    <!-- <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=948327898593359&ev=PageView&noscript=1"/></noscript> -->
+    <!-- End Facebook Pixel Code -->
+
+    <!-- GA -->
+    <script type='text/javascript'>
+        function initExperiment(ExperimentID, callback){if (!ExperimentID){return callback(null);}var r=false; var s=document.createElement('script'); s.type='text/javascript'; s.src='//www.google-analytics.com/cx/api.js?experiment='+ExperimentID; s.onload=function(){if (!r && (!this.readyState || this.readyState=='complete')){r=true; callback(cxApi.chooseVariation());}else{callback(null)}}; s.onerror=function(){callback(null)}; var t=document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t);}
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-52179504-1', 'alodokter.com');
+        ga('require', 'displayfeatures');
+
+        var typePage = 'article';
+        if (typePage == 'article') {
+            window.GAPageType = 'Article';
+            ga('set', 'contentGroup1', 'Article Page');
+        } else if (typePage == 'komunitas/topics' || typePage == 'komunitas/discussions') {
+            window.GAPageType = 'Komunitas';
+            ga('set', 'contentGroup1', 'Komunitas Page');
+        } else if (typePage == 'disease') {
+            window.GAPageType = 'Diseases';
+            ga('set', 'contentGroup1', 'Disease Page');
+        } else if (typePage == 'drugs') {
+            window.GAPageType = 'Drugs';
+            ga('set', 'contentGroup1', 'Drug Page');
+        } else {
+            window.GAPageType = 'General';
+        }
+        ga('set','contentGroup2', "September 2024");
+        ga('set','contentGroup3', "Firdha Syafana");
+        ga('set','dimension1', "gangguan-mental, kesehatan-mental");
+        initExperiment(window.ExperimentID, function(variation) {
+            if (variation !== null) {
+                window.ExperimentReady = true;
+                window.ExperimentVariation = variation;
+                ga('set', 'expId', window.ExperimentID);
+                ga('set', 'expVar', window.ExperimentVariation);
+            }
+            ga('send', 'pageview');
+            ga('send', 'event', 'Scroll Depth', GAPageType, '0%');
+        });
+    </script>
+    <!-- GA -->
+
+    <!-- Google Tag -->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+    <script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <!-- Google Tag -->
+
+    <script async src="//alodokter.api.useinsider.com/ins.js?id=10005708"></script>
+</head>
+<body>
+    <!-- HEADER -->
+    
+    <top-navbar-view id="top-navbar-view"
+        user-photo=""
+        is-show-kemenkes ="{&quot;kemenkes_partnership&quot;:true,&quot;kemenkes_top_bar_desktop&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto,q_auto/v1634020083/aloweb_assets/logo-header.png&quot;,&quot;kemenkes_bottom_banner_desktop&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto,q_auto/v1730097699/setting/1730097698.png&quot;,&quot;kemenkes_top_bar_mobile&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto,q_auto/v1634020083/aloweb_assets/logo-header.png&quot;,&quot;kemenkes_bottom_banner_mobile&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto,q_auto/v1730097809/setting/1730097808.png&quot;}"
+        user-login=""
+        user-fullname=""
+        total-notif="0"
+        doctor-editor-link=""
+        user-link=""
+            show-hide-menu="{&quot;web_show_top_navbar_aloproteksi&quot;:true,&quot;web_show_top_navbar_aloshop&quot;:true,&quot;web_show_top_navbar_caridokter&quot;:true,&quot;web_show_top_navbar_hidupsehat&quot;:true,&quot;web_show_top_navbar_infokesehatan&quot;:true,&quot;web_show_top_navbar_keluarga&quot;:true,&quot;web_show_top_navbar_kesehatan&quot;:true,&quot;web_show_top_navbar_obat&quot;:true,&quot;web_show_top_navbar_penyakit&quot;:true,&quot;web_show_top_navbar_tanyadokter&quot;:true,&quot;web_show_top_navbar_alochoice&quot;:true}"
+            pdpa-content="{&quot;title&quot;:&quot;Perlindungan Data Anda yang Utama Bagi Kami&quot;,&quot;description&quot;:&quot;Saya telah memercayakan informasi untuk disimpan \u0026 digunakan. Keamanan data terlindungi sesuai \u003ca href=&#39;/syarat-dan-ketentuan&#39; target=&#39;_blank&#39;\u003e\u003cb\u003eSyarat \u0026 Ketentuan\u003c/b\u003e\u003c/a\u003e serta \u003ca href=&#39;/privasi&#39; target=&#39;_blank&#39;\u003e\u003cb\u003ePrivasi Alodokter\u003c/b\u003e\u003c/a\u003e&quot;,&quot;error_text&quot;:&quot;Klik centang untuk menyetujui Syarat Ketentuan dan Aturan Privasi ALODOKTER&quot;}"
+            alodokter-otp-service="whatsapp"
+    ></top-navbar-view>
+
+    <!-- HEADER -->
+
+    <div class="content">
+        <sub-navbar-left></sub-navbar-left>
+
+        <div class="content-inner">
+            <div class="container">
+                <script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/38162042/d_article_sidebar_300x600', [300, 600], 'div-gpt-ad-1428907644705-1').addService(googletag.pubads());
+        googletag.defineSlot('/38162042/dekstop_article_sidebar_middle_300x350', [300, 250], 'div-gpt-ad-1441719271128-0').addService(googletag.pubads());
+        googletag.defineSlot('/38162042/d_article_inside_below_600x250', [[600, 250],[336,280],[300,250]], 'div-gpt-ad-1450067495602-0').addService(googletag.pubads());
+        googletag.defineSlot('/38162042/d_article_content_middle_html_video',  [[400, 300],[336,280],[300,250]], 'div-gpt-ad-1483928814775-0').addService(googletag.pubads());
+        googletag.pubads().enableAsyncRendering();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+</script>
+<!-- MAIN CONTAINER -->
+<div class="main-container">
+<link-button-corona
+        widget-image="https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto,q_auto/v1699413839/setting/1699413837.gif"
+        href="https://alodokter.onelink.me/1997390319/5c20772d"
+    widget-floating-type="article"
+></link-button-corona>
+
+  <div class="title-tag-container">
+   <div class="tag-label-container">
+     <a href="/hidup-sehat">
+       <div class="tag-label label-hidup-sehat">Hidup Sehat</div>
+     </a>
+   </div>
+   <h1 id="post_title">Judi Online, Kenali Bahaya, Ciri-Ciri Kecanduan, dan Penanganannya</h1>
+  <!--  <div class="date-article">
+     21 Januari 2025, 14:36
+   </div> -->
+  </div>
+
+  <share-button></share-button>
+
+  <div class="post-detail-container">
+   <div id="postContent" data-id="66d8153d7324050024c00a71" class="post-content">
+    <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p><b>Judi online adalah permainan yang biasanya berbentuk kartu dalam sebuah aplikasi atau website. Melalui permainan ini, pemain menaruh jaminan uang untuk dijadikan bahan taruhan dan berharap mendapatkan banyak keuntungan. Meski menggiurkan, bermain judi online memiliki dampak besar yang sering kali tidak disadari oleh pemainnya.</b></p>
+<p><span style="font-weight: 400;">Judi awalnya hanya bisa diikuti secara langsung dalam kasino. Seiring dengan kemajuan teknologi dan kemudahan transaksi, judi pun bisa diakses secara online di mana saja dan oleh siapa saja, termasuk anak-anak. Judi online dikemas dalam bentuk permainan kartu, catur, atau dadu yang menyenangkan sekaligus memberi tantangan.</span></p>
+<p><img class="alignnone size-full wp-image-1908301" src="https://res.cloudinary.com/dk0z4ums3/image/upload/v1725437501/attached_image/judi-online-kenali-bahaya-ciri-ciri-kecanduan-dan-penanganannya-0-alodokter.jpg" alt="Judi Online, Kenali Bahaya, Ciri-Ciri Kecanduan, dan Penanganannya - Alodokter" width="650" height="434"></p>
+<p><span style="font-weight: 400;">Karena kemudahan akses dan permainannya seru, banyak orang ketagihan bermain judi online, baik secara sadar maupun tidak. Bahkan, pemain judi mungkin tidak lagi peduli dengan untung atau rugi dari segi keuangan. Pada tahap ini, kecanduan judi online atau pathological gambling akan berdampak terhadap hidup pemainnya secara keseluruhan.</span></p>
+<p><span style="font-weight: 400;">Biasanya, permainan judi online mudah menjebak dan membuat orang ketagihan karena menimbulkan harapan tinggi untuk memperoleh uang banyak secara instan. Selain itu, seseorang yang merasa tertekan dalam hidupnya, yang memiliki ambisi besar dan memiliki adrenalin tinggi, juga rentan terkena dampak dari kecanduan judi online.</span></p>
+<h3><b>Berbagai Bahaya Judi Online</b></h3>
+<p><span style="font-weight: 400;">Tidak hanya merugikan diri sendiri, sering main judi online juga bisa menjadi penyebab seseorang bertindak kriminal terhadap orang lain. Inilah sejumlah bahaya judi online yang sering terjadi, baik dari sisi kesehatan mental, fisik, finansial, dan sosial:</span></p>
+<h4><b>1. Kecanduan</b></h4>
+<p><span style="font-weight: 400;">Bermain judi, baik secara online maupun konvensional, akan memengaruhi cara kerja sistem saraf di otak, sama halnya seperti narkoba dan alkohol. Pada awalnya, seseorang mungkin hanya coba-coba, tetapi ia lama-kelamaan akan terlarut dalam skema permainan judi online sampai akhirnya <a href="https://www.alodokter.com/kecanduan-gadget" target="_blank">kecanduan</a>.</span></p>
+<p><span style="font-weight: 400;">Permainan judi online biasanya memiliki fitur untuk mengelabui otak agar berpikir bahwa kekalahan sebenarnya adalah kemenangan. Sebagai contoh, mesin slot judi online menampilkan musik, suara, dan lampu perayaan dengan pengembalian uang Rp500.000 untuk taruhan sebesar Rp2.000.000.</span></p>
+<p><span style="font-weight: 400;">Penelitian menunjukkan, sistem saraf simpatik di dalam otak merespons kekalahan yang dirayakan sebagai kemenangan dengan cara yang sama seperti merespons kemenangan yang sebenarnya. Karena inilah, judi online bisa membuat kecanduan, meski pemainnya sebenarnya sudah kalah berkali-kali.</span></p>
+<h4><b>2. Kerugian keuangan</b></h4>
+<p><span style="font-weight: 400;">Walau kalah berkali-kali, pemain yang kecanduan judi online biasanya akan terus melakukan taruhan uang atau menaruh deposit sampai mengalami kerugian keuangan. Saat uangnya habis, pemain judi online seringkali tak segan-segan untuk berhutang atau mendapatkan pinjaman online.</span></p>
+<h4><b>3. Gangguan kesehatan mental dan fisik</b></h4>
+<p><span style="font-weight: 400;">Bahaya judi online lain yang juga akan terjadi adalah gangguan kesehatan mental dan fisik. Judi online membuat para pemainnya cenderung memiliki tekanan emosional yang tinggi, bersifat agresif, mudah stres, dan mudah marah. Ini biasanya akibat dari rasa frustasi karena kekalahan dalam bermain judi.</span></p>
+<p><span style="font-weight: 400;">Stres atau </span><a href="https://www.alodokter.com/8-gejala-depresi-berat-yang-tidak-boleh-diabaikan" target="_blank"><span style="font-weight: 400;">depresi berat</span></a><span style="font-weight: 400;"> akibat bermain judi online juga dapat menyebabkan berbagai penyakit, misalnya GERD, bahkan hingga </span><a href="https://www.alodokter.com/serangan-jantung" target="_blank"><span style="font-weight: 400;">serangan jantung</span></a><span style="font-weight: 400;">.</span><br>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/V-tVFHRX8Fk?si=WIGWcSoTSqfhfrVK" width="340" height="200" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h4><b>4. Penyalahgunaan alkohol atau obat-obatan terlarang</b></h4>
+<p><span style="font-weight: 400;">Kalah dalam judi online bisa mendorong pemainnya untuk mengonsumsi alkohol secara berlebihan, bahkan menggunakan narkoba untuk menghilangkan rasa stres dan kecewa. Ini nantinya akan berdampak pada kesehatan fisik, seperti gangguan ingatan jangka pendek, obesitas, tekanan darah tinggi (hipertensi), kerusakan jantung, masalah organ hati, dan gangguan kesuburan.</span></p>
+<h4><b>5. Terjerat kasus hukum</b></h4>
+<p><span style="font-weight: 400;">Dalam Pasal 303 KUHP dan 303 bis KUHP tentang Perjudian disebutkan bahwa penyelenggara permainan judi, termasuk judi online, diancam dengan pidana penjara paling lama 10 tahun atau pidana denda paling banyak 25 juta rupiah. Sementara itu, pemain judi online dapat terkena pidana penjara maksimal 4 tahun dan/atau denda pidana paling banyak 10 juta rupiah.</span></p>
+<p><span style="font-weight: 400;">Selain itu, bila telah terlilit hutang, pecandu judi online dapat melakukan apa saja untuk membayar hutang dan memenuhi kebutuhannya dalam berjudi lagi, seperti menipu, merampas, bahkan mencuri.</span></p>
+<p><span style="font-weight: 400;">Bermain judi online juga termasuk tindakan pidana yang diatur juga dalam Pasal 45 ayat 2 UU ITE. Pada pasal tersebut, pemain judi online dapat dipidana penjara paling lama 6 tahun dan/atau denda paling banyak 1 miliar rupiah.</span></p>
+<h3><b>Ciri-Ciri Kecanduan Judi Online</b></h3>
+<p><span style="font-weight: 400;">Jika sudah mengalami kecanduan judi online atau pathological gambling, seseorang akan sulit mengendalikan keinginannya untuk berjudi, meski sadar akan dampak buruknya. Berikut ini adalah ciri-ciri orang yang kecanduan judi online:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Merasa perlu berjudi dengan jumlah uang yang banyak karena main banyak nominal uangnya, makin ia merasa senang</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Terus mengejar taruhan sampai menguras tabungan yang mengakibatkan kerugian finansial</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Memprioritaskan uang yang didapat untuk berjudi daripada kebutuhan hidup</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sering bermain judi online saat stres</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Merasa gelisah dan mudah marah saat tidak bisa berjudi karena kehabisan uang</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mengandalkan orang lain untuk memberinya uang, misalnya dengan berhutang atau melalui pinjaman online, karena kondisi keuangannya hancur akibat perjudian</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jika kalah dalam judi, ia akan berusaha mendapatkan uangnya kembali dengan lebih banyak berjudi lagi</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tidak merasa masalah bila kehilangan pekerjaan, bolos sekolah, atau berbohong kepada orang lain demi berjudi</span></li>
+</ul>
+<h3><b>Pilihan Terapi yang Tepat untuk Terlepas dari Judi Online</b></h3>
+<p><span style="font-weight: 400;">Bebas dari kecanduan bermain judi online bukanlah perkara yang mudah. Kondisi ini memerlukan bantuan dari seorang profesional kesehatan mental atau psikolog. Tanpa penanganan yang tepat, berhenti bermain judi online biasanya hanya bersifat sementara.</span></p>
+<p><span style="font-weight: 400;">Ada beberapa pilihan terapi yang biasanya direkomendasikan untuk mengatasi kasus kecanduan judi online, antara lain:</span></p>
+<h4><b>Terapi perilaku kognitif</b></h4>
+<p><span style="font-weight: 400;">Hal pertama yang perlu dilakukan dalam penanganan judi online adalah penderitanya perlu menyadari dan mengakui bahwa dirinya terjebak dalam permainan judi. Setelah itu, seorang psikolog baru bisa memberikan </span><a href="https://www.alodokter.com/ketahui-apa-itu-perilaku-kognitif" target="_blank"><span style="font-weight: 400;">terapi perilaku kognitif</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Melalui terapi ini, penderita diajarkan untuk mengidentifikasi pikiran dan perilaku yang keliru, seperti “saya pasti akan menang dalam permainan judi online, setelah berkali-kali kalah”. Setelah itu, penderita akan dilatih keterampilan untuk mengubah pola pikir yang salah tersebut dan menggantinya dengan cara berpikir yang benar.</span></p>
+<h4><b>Obat-obatan</b></h4>
+<p><span style="font-weight: 400;">Seperti yang telah dijelaskan, bermain judi online bisa disebabkan oleh rasa stres, depresi, atau kecemasan. Pada kondisi ini, obat </span><a href="https://www.alodokter.com/antidepresan" target="_blank"><span style="font-weight: 400;">antidepresan</span></a><span style="font-weight: 400;"> biasanya diresepkan untuk membantu mengurangi perilaku kecanduan judi online.</span></p>
+<p><span style="font-weight: 400;">Selain itu, obat antagonis opioid juga biasanya diberikan untuk kasus judi online akibat efek samping penyalahgunaan narkoba.</span></p>
+<h4><b>Dukungan dari teman dan keluarga</b></h4>
+<p><span style="font-weight: 400;">Dalam segala proses penanganan bahaya judi online, dukungan dari orang-orang sekitar sangat diperlukan. Dukungan ini bisa dimulai dari hal-hal kecil, misalnya mendengarkan keluhannya, menghilangkan akses judi online, mendorongnya untuk melakukan hal positif, atau membantunya menemukan hobi baru, misalnya olahraga.</span></p>
+<p><span style="font-weight: 400;">Dengan begitu, orang yang kecanduan judi online pun memiliki </span><a href="https://www.alodokter.com/cara-meningkatkan-motivasi-untuk-diri-sendiri" target="_blank"><span style="font-weight: 400;">motivasi kuat </span></a><span style="font-weight: 400;">untuk keluar dari lingkaran judi online dan menjadi pribadi yang lebih baik demi mewujudkan kehidupan yang damai.</span></p>
+<p><span style="font-weight: 400;">Jika orang di sekitar Anda atau Anda sendiri merasa tidak mampu terlepas dari judi online, jangan ragu untuk melakukan konsultasi dengan psikolog atau psikiater. Konsultasi bisa dilakukan melalui </span><a href="https://play.google.com/store/apps/details?id=com.alodokter.android&amp;shortlink=5c20772d&amp;is_retargeting=true&amp;pid=Website-Floating-Chat-Button&amp;source_caller=ui&amp;pli=1" target="_blank"><span style="font-weight: 400;">Chat Bersama Dokter</span></a><span style="font-weight: 400;"> dan kerahasiaan Anda pun terjamin.</span></p>
+</body></html>
+
+   </div>
+  </div>
+
+    <!-- /38162042/d_article_inside_below_600x250 -->
+    <div id='div-gpt-ad-1450067495602-0' style='height:250px; width:600px; margin-bottom:36px; text-align: center;' class='adunit'>
+        <script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.pubads().setTargeting('Article', ['gangguan-mental','kesehatan-mental']); googletag.display('div-gpt-ad-1450067495602-0'); });
+        </script>
+    </div>
+
+    <!-- reviewed by & referensi -->
+    <!--<div class="sources">
+  <div style="padding:5px 0px; border-bottom:solid 1px #ccc;" font-size="14px"> Ditinjau oleh : dr. Gracia Fensynthia </div>
+  <h4 id="trigger-sources">Referensi</h4>
+  <div class="data-sources" style="display:none;">
+    <p>Chen, Z., et al. (2022). Winning and Losing in Online Gambling: Effects on Within-Session Chasing. Plos One, 17(8), pp. e0273359.
+<br />Kembaren, L. Kementerian Kesehatan RI (2022). The Dangers of Online Gambling Addiction for Mental Health.
+<br />Kementerian Komunikasi dan Informatika (2022). Penanganan Judi Online oleh Kementerian Komunikasi dan Informatika.
+<br />Health Direct Australia (2022). How Alcohol Affects Your Health.
+<br />National Institutes of Health (2022). MedlinePlus. Compulsive Gambling.
+<br />Solan, M. Harvard Health Publishing Harvard Medical School (2023). Is Online Gambling Harming You?
+<br />Mayo Clinic (2022). Compulsive Gambling.
+<br />Sohn, E. American Psychological Association (2023). How Gambling Affects the Brain and Who is Most Vulnerable to Addiction.
+<br />Psychology Today (2022). Gambling Disorder (Compulsive Gambling, Pathological Gambling).</p>
+  </div>
+</div>-->
+
+<div class="date-article">
+<!-- Terakhir diperbarui: 21 Januari 2025 -->
+  Terakhir diperbarui: 15 Oktober 2024
+</div>
+<sources-post
+  doctor-name="dr. Gracia Fensynthia"
+  sources="&quot;\u003cp\u003eChen, Z., et al. (2022). Winning and Losing in Online Gambling: Effects on Within-Session Chasing. Plos One, 17(8), pp. e0273359.\n\u003cbr /\u003eKembaren, L. Kementerian Kesehatan RI (2022). The Dangers of Online Gambling Addiction for Mental Health.\n\u003cbr /\u003eKementerian Komunikasi dan Informatika (2022). Penanganan Judi Online oleh Kementerian Komunikasi dan Informatika.\n\u003cbr /\u003eHealth Direct Australia (2022). How Alcohol Affects Your Health.\n\u003cbr /\u003eNational Institutes of Health (2022). MedlinePlus. Compulsive Gambling.\n\u003cbr /\u003eSolan, M. Harvard Health Publishing Harvard Medical School (2023). Is Online Gambling Harming You?\n\u003cbr /\u003eMayo Clinic (2022). Compulsive Gambling.\n\u003cbr /\u003eSohn, E. American Psychological Association (2023). How Gambling Affects the Brain and Who is Most Vulnerable to Addiction.\n\u003cbr /\u003ePsychology Today (2022). Gambling Disorder (Compulsive Gambling, Pathological Gambling).\u003c/p\u003e&quot;"
+>
+</sources-post>
+
+
+    <share-button></share-button>
+
+        <related-topic
+    id="relatedTopic"
+    related-items="[{&quot;_id&quot;:&quot;680844f694353b00215c9c6d&quot;,&quot;author_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_56,h_56,f_auto/v1599017540/aloweb_assets/default_alodokter_doctor.png&quot;,&quot;avatar_bg_color&quot;:&quot;#EEC6B3&quot;,&quot;doctor_answer&quot;:true,&quot;doctor_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_56,h_56,c_fill,f_auto/v1601099858/riza_marlina.jpg&quot;,&quot;doctor_name&quot;:&quot;dr. Riza Marlina&quot;,&quot;excerpt&quot;:&quot;Alodokter, Dok, saya sering merasa emosi saya mudah meledak tanpa alasan yang jelas, terutama saat stres atau merasa tertekan. Saya penasaran, apa ...&quot;,&quot;health_analyst&quot;:false,&quot;permalink&quot;:&quot;apa-yang-bisa-menyebabkan-perubahan-emosi-yang-tiba-tiba-dan-bagaimana&quot;,&quot;position&quot;:1,&quot;post_id&quot;:&quot;None&quot;,&quot;read_reply&quot;:false,&quot;reply&quot;:&quot;1&quot;,&quot;time_in_words&quot;:&quot;23 April 2025, 16:33&quot;,&quot;timestamps&quot;:&quot;Wed, 23 Apr 2025 16:33:19 GMT&quot;,&quot;title&quot;:&quot;Apa yang bisa menyebabkan perubahan emosi yang tiba-tiba dan bagaimana cara menanganinya?&quot;,&quot;user_type&quot;:&quot;Health Analyst&quot;,&quot;username&quot;:&quot;So****a&quot;},{&quot;_id&quot;:&quot;67fc69563a69f90026b295ea&quot;,&quot;author_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_56,h_56,f_auto/v1599017540/aloweb_assets/default_alodokter_doctor.png&quot;,&quot;avatar_bg_color&quot;:&quot;#E1C2A9&quot;,&quot;doctor_answer&quot;:true,&quot;doctor_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_56,h_56,c_fill,f_auto/v1631152443/dr-nadia-nurotul-fuadah.jpg&quot;,&quot;doctor_name&quot;:&quot;dr. Nadia Nurotul Fuadah&quot;,&quot;excerpt&quot;:&quot;Alodokter,,, Saya sering melihat orang tua di sekitar saya yang mudah marah pada anak-anak mereka, bahkan dalam situasi yang terlihat sepele. Kadan...&quot;,&quot;health_analyst&quot;:false,&quot;permalink&quot;:&quot;mengapa-orang-tua-mudah-marah-pada-anak-anak-&quot;,&quot;position&quot;:2,&quot;post_id&quot;:&quot;None&quot;,&quot;read_reply&quot;:false,&quot;reply&quot;:&quot;1&quot;,&quot;time_in_words&quot;:&quot;14 April 2025, 17:27&quot;,&quot;timestamps&quot;:&quot;Mon, 14 Apr 2025 17:27:34 GMT&quot;,&quot;title&quot;:&quot;Mengapa Orang Tua Mudah Marah pada Anak-anak?&quot;,&quot;user_type&quot;:&quot;Health Analyst&quot;,&quot;username&quot;:&quot;Ro**n&quot;},{&quot;_id&quot;:&quot;67f70d1f31944f0022bc49c5&quot;,&quot;author_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_56,h_56,f_auto/v1599017540/aloweb_assets/default_alodokter_doctor.png&quot;,&quot;avatar_bg_color&quot;:&quot;#BFC6F4&quot;,&quot;doctor_answer&quot;:true,&quot;doctor_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_56,h_56,c_fill,f_auto/v1601099858/riza_marlina.jpg&quot;,&quot;doctor_name&quot;:&quot;dr. Riza Marlina&quot;,&quot;excerpt&quot;:&quot;Alodokter, saya merasa khawatir karena akhir-akhir ini saya sering menghayal atau berbicara sendiri, bahkan di tempat umum. Kadang-kadang saya tida...&quot;,&quot;health_analyst&quot;:false,&quot;permalink&quot;:&quot;penyebab-menghayal-dan-berbicara-sendiri--dan-bagaimana-cara-mengatasinya-&quot;,&quot;position&quot;:3,&quot;post_id&quot;:&quot;None&quot;,&quot;read_reply&quot;:false,&quot;reply&quot;:&quot;1&quot;,&quot;time_in_words&quot;:&quot;10 April 2025, 14:13&quot;,&quot;timestamps&quot;:&quot;Thu, 10 Apr 2025 14:13:24 GMT&quot;,&quot;title&quot;:&quot;Penyebab Menghayal dan Berbicara Sendiri, dan Bagaimana Cara Mengatasinya?&quot;,&quot;user_type&quot;:&quot;Health Analyst&quot;,&quot;username&quot;:&quot;Le****o&quot;}]"
+    title-related="Diskusi Terkait"
+    topic-tags="kesehatan-mental--gangguan-mental"
+    text-more-button="Selanjutnya"
+    with-text="true"
+    post-title="Judi Online, Kenali Bahaya, Ciri-Ciri Kecanduan, dan Penanganannya"
+    post-id="66d8153d7324050024c00a71"
+    avatar-default-color = ''
+>
+</related-topic>
+
+</div>
+<!-- MAIN CONTAINER -->
+<!-- SIDE CONTAINER -->
+<div class="side-container">
+    <!-- DFP-->
+    <!-- /38162042/d_article_sidebar_300x600 -->
+    <div id='div-gpt-ad-1428907644705-1' style='height:600px; width:300px;' class='adunit'>
+        <script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.pubads().setTargeting('Article', ['gangguan-mental','kesehatan-mental']); googletag.display('div-gpt-ad-1428907644705-1'); });
+        </script>
+    </div>
+    <!-- DFP -->
+    <!-- RELATED POST -->
+        <div class="h2-related-article">Artikel Terkait</div>
+<related-post
+    id="relatedPost"
+    related-items="[{&quot;category&quot;:&quot;Hidup Sehat&quot;,&quot;excerpt&quot;:&quot;Ketika memutuskan berpisah dengan kekasih yang kamu sayangi, wajar saja bila kamu merasa patah hati.&quot;,&quot;id&quot;:215662,&quot;permalink&quot;:&quot;Lakukan-7-Langkah-Ini-untuk-Memulihkan-Diri-dari-Hubungan-Cinta-yang-Kandas&quot;,&quot;position&quot;:1,&quot;post_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1539329656/attached_image/lakukan-7-langkah-ini-untuk-memulihkan-diri-dari-hubungan-cinta-yang-kandas.jpg&quot;,&quot;title&quot;:&quot;Lakukan 6 Langkah Ini untuk Memulihkan Diri dari Patah Hati&quot;,&quot;category_label&quot;:&quot;hidup-sehat&quot;},{&quot;category&quot;:&quot;Kesehatan&quot;,&quot;excerpt&quot;:&quot;Fobia lubang adalah kondisi yang membuat seseorang merasa takut saat melihat lubang kecil pada objek&quot;,&quot;id&quot;:282054,&quot;permalink&quot;:&quot;fakta-fobia-lubang-yang-perlu-anda-ketahui&quot;,&quot;position&quot;:2,&quot;post_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1637831526/attached_image/fakta-fobia-lubang-yang-perlu-anda-ketahui.jpg&quot;,&quot;title&quot;:&quot;Fobia Lubang, Ketahui Fakta dan Cara Menanganinya&quot;,&quot;category_label&quot;:&quot;kesehatan&quot;},{&quot;category&quot;:&quot;Hidup Sehat&quot;,&quot;excerpt&quot;:&quot;Memiliki IQ yang rendah bukanlah akhir dari segalanya, karena IQ memang bukanlah satu-satunya faktor yang&quot;,&quot;id&quot;:1793778,&quot;permalink&quot;:&quot;9-cara-meningkatkan-iq-yang-bisa-anda-coba&quot;,&quot;position&quot;:3,&quot;post_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1589860978/attached_image/9-cara-meningkatkan-iq-yang-bisa-anda-coba.jpg&quot;,&quot;title&quot;:&quot;9 Cara Meningkatkan IQ yang Bisa Anda Coba&quot;,&quot;category_label&quot;:&quot;hidup-sehat&quot;},{&quot;category&quot;:&quot;Hidup Sehat&quot;,&quot;excerpt&quot;:&quot;Merasa insecure saat melakukan suatu hal itu normal, kok. Namun, kamu perlu menerapkan cara mengatasi&quot;,&quot;id&quot;:1795960,&quot;permalink&quot;:&quot;sering-merasa-insecure-ini-cara-mengatasinya&quot;,&quot;position&quot;:4,&quot;post_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1593766623/attached_image/sering-merasa-insecure-ini-cara-mengatasinya.jpg&quot;,&quot;title&quot;:&quot;5 Cara Mengatasi Insecure yang Bisa Kamu Coba&quot;,&quot;category_label&quot;:&quot;hidup-sehat&quot;},{&quot;category&quot;:&quot;Hidup Sehat&quot;,&quot;excerpt&quot;:&quot;Kamu sudah pernah mendengar istilah body neutrality, belum? Bersamaan dengan istilah body positivity, akhir-akhir ini&quot;,&quot;id&quot;:1825639,&quot;permalink&quot;:&quot;mengenal-body-neutrality-dan-manfaatnya-bagi-kesehatan-mental&quot;,&quot;position&quot;:5,&quot;post_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1731553209/attached_image/mengenal-body-neutrality-dan-manfaatnya-bagi-kesehatan-mental-2.jpg&quot;,&quot;title&quot;:&quot;Mengenal Body Neutrality dan Manfaatnya bagi Kesehatan Mental&quot;,&quot;category_label&quot;:&quot;hidup-sehat&quot;}]"
+    url-more-button="/artikel-terkait/kesehatan-mental--gangguan-mental--adiksi"
+    see-more="false"
+    post-title="Judi Online, Kenali Bahaya, Ciri-Ciri Kecanduan, dan Penanganannya"
+    post-id="1908300"
+>
+</related-post>
+
+    <!-- RELATED POST -->
+    <!-- RELATED HOSPITAL -->
+    
+    <!-- RELATED HOSPITAL -->
+    <!-- RELATED DOCTOR -->
+        <div class="related-doctor">
+      <div class="h2-related">Dokter Terkait</div>
+    <card-related-doctor
+       href="/cari-dokter/dokter-jiwa"
+       image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_150,h_150,f_auto,q_auto/v1649823898/image_doctor/Foto%20dr.%20William%20Surya%20Atmadja%2C%20Sp.KJ%20-%20RS%20EMC%20Pulomas.jpeg.jpg"
+       doctor-id="61efa5dbf0ad91105af68e7e"
+       doctor-name="dr. William Surya Atmadja, Sp.KJ"
+       doctor-speciality="Dokter Psikiater"
+       post-title="Judi Online, Kenali Bahaya, Ciri-Ciri Kecanduan, dan Penanganannya"
+       parent-post-id="66d8153d7324050024c00a71"
+            price="410000"
+    >
+    </card-related-doctor>
+    <card-related-doctor
+       href="/cari-dokter/dokter-jiwa"
+       image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_150,h_150,f_auto,q_auto/v1609912140/image_doctor/dr.%20Tri%20Kumoroyekti%2C%20Sp.KJ.png.png"
+       doctor-id="5ff54f56378ab40dde6629c5"
+       doctor-name="dr. Tri Kumoroyekti, Sp.KJ"
+       doctor-speciality="Dokter Psikiater"
+       post-title="Judi Online, Kenali Bahaya, Ciri-Ciri Kecanduan, dan Penanganannya"
+       parent-post-id="66d8153d7324050024c00a71"
+            price="200000"
+    >
+    </card-related-doctor>
+    <card-related-doctor
+       href="/cari-dokter/dokter-jiwa"
+       image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_150,h_150,f_auto,q_auto/v1673322778/image_doctor/dr.-Linda-Anastasia%2C-Sp.KJ-04953b78-5c18-4a13-9610-9abd82472a84.jpg"
+       doctor-id="63bce14f830f340e7871b21a"
+       doctor-name="dr. Linda Anastasia, Sp.KJ"
+       doctor-speciality="Dokter Psikiater"
+       post-title="Judi Online, Kenali Bahaya, Ciri-Ciri Kecanduan, dan Penanganannya"
+       parent-post-id="66d8153d7324050024c00a71"
+            price="150000"
+    >
+    </card-related-doctor>
+</div>
+
+    <!-- RELATED DOCTOR -->
+    <!-- DFP -->
+    <!-- /38162042/dekstop_article_sidebar_middle_300x350 -->
+    <div id='div-gpt-ad-1441719271128-0' style='height:250px; width:300px;' class='adunit'>
+        <script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.pubads().setTargeting('Article', ['gangguan-mental','kesehatan-mental']); googletag.display('div-gpt-ad-1441719271128-0'); });
+        </script>
+    </div>
+    <!-- DFP -->
+    <!-- <card-tanya-dokter href="/komunitas/diskusi/penyakit"></card-tanya-dokter> -->
+</div>
+<!-- SIDE CONTAINER -->
+
+<!-- Video Ads on content middle -->
+<script type='text/javascript'>
+  window.addEventListener( 'load', function( event ) {
+    var pc = document.getElementById('postContent')
+    var _p = pc.getElementsByTagName('p')
+    var slot = Math.ceil(_p.length / 2);
+
+    // Ads
+    for(var i = 1; i <= _p.length; i++){
+      if(i == slot){
+        console.log("Load container ads on after <p> "+slot);
+        _p[i].insertAdjacentHTML('afterend','<div id="div-gpt-ad-1483928814775-0" style="height:300px; width:400px;margin:20px auto; text-align: center;"></div>')
+      }
+    }
+
+      // Display DFP Ads
+          googletag.cmd.push(function() { googletag.pubads().setTargeting('Article', ['gangguan-mental','kesehatan-mental']); googletag.display('div-gpt-ad-1483928814775-0'); });
+    });
+</script>
+
+      <!--Start of Zendesk Chat Script-->
+      <!-- <script type="text/javascript">
+          window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+              d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+          _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+            $.src="https://v2.zopim.com/?4aepw4NXtotJtViqflOXs44VLr4pEjSv";z.t=+new Date;$.
+                type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+    </script> -->
+    <!--End of Zendesk Chat Script-->
+
+            </div>
+        </div>
+
+    </div>
+
+     <!-- HEADER -->
+    
+<footer-view
+  is-show-kemenkes ="{&quot;kemenkes_partnership&quot;:true,&quot;kemenkes_top_bar_desktop&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto,q_auto/v1634020083/aloweb_assets/logo-header.png&quot;,&quot;kemenkes_bottom_banner_desktop&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto,q_auto/v1730097699/setting/1730097698.png&quot;,&quot;kemenkes_top_bar_mobile&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto,q_auto/v1634020083/aloweb_assets/logo-header.png&quot;,&quot;kemenkes_bottom_banner_mobile&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto,q_auto/v1730097809/setting/1730097808.png&quot;}"
+      show-hide-submenu-alo="{&quot;web_show_footer_aloproteksi&quot;:true,&quot;web_show_footer_aloproteksi_corporate&quot;:true,&quot;web_show_footer_hubungikami&quot;:true,&quot;web_show_footer_karier&quot;:true,&quot;web_show_footer_tentangkami&quot;:true,&quot;web_show_footer_timeditorial&quot;:true}"
+      insurance-menu-nav="{&quot;is_display&quot;:false,&quot;title&quot;:&quot;Dapatkan Komisi Referral&quot;,&quot;link&quot;:&quot;https://program.alodokter.com/aloproteksi-komisi-referral&quot;}"
+></footer-view>
+    <!-- HEADER -->
+
+    <!-- Start Ads -->
+    <style>
+	#mainContainer {
+  		position: relative;
+  		width: 400px;
+  		height: 300px;
+      	padding-bottom: 20px;
+		margin: 0 auto;
+	}
+
+	#contentVideo, #adContainer {
+  		position: absolute;
+  		top: 0px;
+  		left: 0px;
+  		width: 400px;
+  		height: 300px;
+	}
+
+	#contentElement {
+  		width: 400px;
+  		height: 300px;
+  		overflow: hidden;
+	}
+</style>
+<script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js" async="async"></script>
+<script type="text/javascript">
+	// Copyright 2013 Google Inc. All Rights Reserved.
+	// You may study, modify, and use this example for any purpose.
+	// Note that this example is provided "as is", WITHOUT WARRANTY
+	// of any kind either expressed or implied.
+
+	var adsManager;
+	var adsLoader;
+	var adDisplayContainer;
+	var intervalTimer;
+	var videoContent;
+	var typeKey;
+	var remarketingTags = '';
+
+  window.addEventListener( 'load', function( event ) {
+			rmtg = document.querySelector('meta[name="remarketing_tags"]')
+			if(rmtg != null){
+				remarketingTags = rmtg.content.split(' ')
+				// remarketingTags = rmtg.attr('content').split(', ');
+	      // Wire UI element references and UI event listeners
+	      init();
+			}
+  });
+
+	function init() {
+		typeKey = window.GAPageType;
+		// prepare for add slot video on middle article
+		prepareSlotVideo(typeKey);
+
+		// check slot exist
+		videoContent = document.getElementById('contentElement');
+		// already exists slot
+		if (videoContent != null && videoContent.length != 0) {
+			// Create the ad display container.
+			createAdDisplayContainer();
+			// Initialize the container. Must be done via a user action on mobile devices.
+			adDisplayContainer.initialize();
+			videoContent.load();
+			// Create ads loader.
+			adsLoader = new google.ima.AdsLoader(adDisplayContainer);
+			// Listen and respond to ads loaded and error events.
+			adsLoader.addEventListener(
+			  google.ima.AdsManagerLoadedEvent.Type.ADS_MANAGER_LOADED,
+			  onAdsManagerLoaded,
+			  false);
+			adsLoader.addEventListener(
+			  google.ima.AdErrorEvent.Type.AD_ERROR,
+			  onAdError,
+			  false);
+			  requestAds(typeKey);
+		}
+	  }
+
+	function prepareSlotVideo(typeKey) {
+		// Article
+		if (typeKey == 'Article') {
+			// var count = $('.entry-content p').length;
+			var poster = '';
+
+			var pc = document.getElementById('postContent')
+	    var _p = pc.getElementsByTagName('p')
+			var count = _p.length;
+			var slot = Math.ceil(count/2);
+
+			for(var i = 1; i <= _p.length; i++){
+	      if(i == slot){
+					console.log("Load container ads on slot"+slot);
+					if (remarketingTags.includes("betadine1")) {
+						poster = '/assets/betadine-menstruasi-400x300-546cd3128ed2958755c82cd06f0a2aa13df58336edf4a371c322ace88c966919.jpg';
+					} else if (remarketingTags.includes("betadine-hygiene")) {
+						poster = '/assets/betadine-keputihan-400x300-e728bf75b9043033c927e30cd9d7595a3846fe0286c381e5bb30ae390f1318b9.jpg';
+					} else if (remarketingTags.includes("betadine-gargle")) {
+						poster = '/assets/betadine-gargle-400x300-3ddb7a9c4c2baf6ac9c5f6934bd760eca6f5a9ebd9d81c565bd7ce6ee71e8098.jpg';
+					}
+					_p[i].insertAdjacentHTML('afterend','<div id="mainContainer" class="hide"><div id="contentVideo"><video id="contentElement" poster="'+poster+'"></video></div><div id="adContainer"></div>');
+	      }
+	    }
+			/*$('.entry-content p').each(function(i, e) {
+				if(i == slot ){
+					console.log("Load container ads on slot"+slot);
+					if (remarketingTags.includes("betadine1")) {
+						poster = '/assets/betadine-menstruasi-400x300-546cd3128ed2958755c82cd06f0a2aa13df58336edf4a371c322ace88c966919.jpg';
+					} else if (remarketingTags.includes("betadine-hygiene")) {
+						poster = '/assets/betadine-keputihan-400x300-e728bf75b9043033c927e30cd9d7595a3846fe0286c381e5bb30ae390f1318b9.jpg';
+					} else if (remarketingTags.includes("betadine-gargle")) {
+						poster = '/assets/betadine-gargle-400x300-3ddb7a9c4c2baf6ac9c5f6934bd760eca6f5a9ebd9d81c565bd7ce6ee71e8098.jpg';
+					}
+					$('<div id="mainContainer" class="hide"><div id="contentVideo"><video id="contentElement" poster="'+poster+'"></video></div><div id="adContainer"></div>').insertAfter($(e));
+				}
+			});*/
+		}
+	}
+
+	function createAdDisplayContainer() {
+	  // We assume the adContainer is the DOM id of the element that will house
+	  // the ads.
+	  adDisplayContainer =
+	      new google.ima.AdDisplayContainer(
+	          document.getElementById('adContainer'), videoContent);
+	}
+
+	function requestAds(typeKey) {
+		// Request video ads.
+		var adsRequest = new google.ima.AdsRequest();
+		var target = remarketingTags.join();
+		console.log("TARGET : " + target);
+		if (typeKey == 'Article') {
+			adsRequest.adTagUrl = "https://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/38162042/d_article_content_middle_400x300v&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]&cust_params="+typeKey+"%3D"+encodeURIComponent(target);
+		} else if (typeKey == 'Komunitas') {
+			// komunitas
+			adsRequest.adTagUrl = "https://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/38162042/desktop_komunitas_index_video_sidebar_above&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]";
+		} else {
+			// homepage
+			adsRequest.adTagUrl = "https://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/38162042/desktop_homepage_video_sidebar_above&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]";
+ 		}
+		console.log(adsRequest);
+		adsLoader.requestAds(adsRequest);
+	}
+
+	function onAdsManagerLoaded(adsManagerLoadedEvent) {
+	  // Get the ads manager.
+	  var adsRenderingSettings = new google.ima.AdsRenderingSettings();
+	  adsRenderingSettings.restoreCustomPlaybackStateOnAdBreakComplete = true;
+	  // videoContent should be set to the content video element.
+	  adsManager = adsManagerLoadedEvent.getAdsManager(
+	      videoContent, adsRenderingSettings);
+
+	  // Add listeners to the required events.
+	  adsManager.addEventListener(
+	      google.ima.AdErrorEvent.Type.AD_ERROR,
+	      onAdError);
+	  adsManager.addEventListener(
+	      google.ima.AdEvent.Type.CONTENT_PAUSE_REQUESTED,
+	      onContentPauseRequested);
+	  adsManager.addEventListener(
+	      google.ima.AdEvent.Type.CONTENT_RESUME_REQUESTED,
+	      onContentResumeRequested);
+	  adsManager.addEventListener(
+	      google.ima.AdEvent.Type.ALL_ADS_COMPLETED,
+	      onAdEvent);
+
+	  // Listen to any additional events, if necessary.
+	  adsManager.addEventListener(
+	      google.ima.AdEvent.Type.LOADED,
+	      onAdEvent);
+	  adsManager.addEventListener(
+	      google.ima.AdEvent.Type.STARTED,
+	      onAdEvent);
+	  adsManager.addEventListener(
+	      google.ima.AdEvent.Type.COMPLETE,
+	      onAdEvent);
+
+	  try {
+			// Initialize the ads manager. Ad rules playlist will start at this time.
+			//adsManager.init(640, 360, google.ima.ViewMode.NORMAL);
+			// Article
+			if (typeKey == 'General' || typeKey == 'Komunitas') {
+			    adsManager.init(300, 250, google.ima.ViewMode.NORMAL);
+			} else {
+				adsManager.init(400, 300, google.ima.ViewMode.NORMAL);
+			}
+			// Call play to start showing the ad. Single video and overlay ads will
+			// start at this time; the call will be ignored for ad rules.
+			var mainContainer = document.getElementById("mainContainer").classList;
+			// Show Container
+			if (mainContainer.contains("hide")) {
+				mainContainer.remove("hide");
+			}
+			adsManager.start();
+		} catch (adError) {
+			// An error may be thrown if there was a problem with the VAST response.
+			videoContent.play();
+		}
+	}
+
+	function onAdEvent(adEvent) {
+	  // Retrieve the ad from the event. Some events (e.g. ALL_ADS_COMPLETED)
+	  // don't have ad object associated.
+	  var ad = adEvent.getAd();
+	  switch (adEvent.type) {
+	    case google.ima.AdEvent.Type.LOADED:
+	      // This is the first event sent for an ad - it is possible to
+	      // determine whether the ad is a video ad or an overlay.
+	      if (!ad.isLinear()) {
+	        // Position AdDisplayContainer correctly for overlay.
+	        // Use ad.width and ad.height.
+	        videoContent.play();
+	      }
+	      break;
+	    case google.ima.AdEvent.Type.STARTED:
+	      // This event indicates the ad has started - the video player
+	      // can adjust the UI, for example display a pause button and
+	      // remaining time.
+	      if (ad.isLinear()) {
+	        // For a linear ad, a timer can be started to poll for
+	        // the remaining time.
+	        intervalTimer = setInterval(
+	            function() {
+	              var remainingTime = adsManager.getRemainingTime();
+	            },
+	            300); // every 300ms
+	      }
+	      break;
+	    case google.ima.AdEvent.Type.COMPLETE:
+	      // This event indicates the ad has finished - the video player
+	      // can perform appropriate UI actions, such as removing the timer for
+	      // remaining time detection.
+	      if (ad.isLinear()) {
+	        clearInterval(intervalTimer);
+	      }
+				document.getElementById("mainContainer").classList.add('hide')
+        // $("#mainContainer").addClass('hide');
+		  // loop ads video
+	      // requestAds();
+	      break;
+	  }
+	}
+
+	function onAdError(adErrorEvent) {
+	  // Handle the error logging.
+	  console.log(adErrorEvent.getError());
+	  if (adErrorEvent.type == 'adError') {
+			document.getElementById("mainContainer").classList.add('hide')
+		  // $("#mainContainer").addClass('hide');
+	  }
+	  // adsManager.destroy();
+	}
+
+	function onContentPauseRequested() {
+	  videoContent.pause();
+	  // This function is where you should setup UI for showing ads (e.g.
+	  // display ad timer countdown, disable seeking etc.)
+	  // setupUIForAds();
+	}
+
+	function onContentResumeRequested() {
+	  videoContent.play();
+	  // This function is where you should ensure that your UI is ready
+	  // to play content. It is the responsibility of the Publisher to
+	  // implement this function when necessary.
+	  // setupUIForContent();
+
+	}
+
+	// Wire UI element references and UI event listeners
+	// init();
+
+</script>
+
+    <!-- End Ads- ->
+
+    <!-- Polymer 3 -->
+    <script src="/assets/custom-elements-es5-adapter-8c38dd9f2e16de3af85d83b3567ad32138ea58f33ec1412f607f10acf62ae652.js" defer="defer"></script>
+    <script src="/packs/posts-page-62481097950bbb256d7d.js" defer="defer"></script>
+    <!-- Polymer 3 -->
+
+    <!-- IRON AJAX -->
+    <iron-ajax
+            id="postCounter"
+            auto url="/api/posts/counter"
+            headers='{"Authorization": "Token token=58caa8685c084db79f733f40ebae25f1"}'
+            method="post"
+            params='{ "post_id": "66d8153d7324050024c00a71"}'
+            handle-as="json">
+          </iron-ajax>
+    <iron-ajax
+            id="pubsubCounter"
+            auto url="/api/pubsub/counter"
+            method="post"
+            params='{ "post_id": "66d8153d7324050024c00a71"}'
+            handle-as="json">
+          </iron-ajax>
+
+    <iron-ajax
+            id="pubsubRecommenderMVP"
+            auto url="https://www.alodokter.com/api/pubsub/recommender_mvp"
+            method="post"
+            params='{"recommendation_id": "8e8b054f-7c3a-4aec-a503-abc0942a3099",
+                "post_id": "1908300",
+                "post_slug": "judi-online-kenali-bahaya-ciri-ciri-kecanduan-dan-penanganannya",
+                "algorithm": "articles_top_ctr",
+                "is_randomized": "false",
+                "related_posts": "215662,Lakukan-7-Langkah-Ini-untuk-Memulihkan-Diri-dari-Hubungan-Cinta-yang-Kandas,1,282054,fakta-fobia-lubang-yang-perlu-anda-ketahui,2,1793778,9-cara-meningkatkan-iq-yang-bisa-anda-coba,3,1795960,sering-merasa-insecure-ini-cara-mengatasinya,4,1825639,mengenal-body-neutrality-dan-manfaatnya-bagi-kesehatan-mental,5,1854086,battered-woman-syndrome-kondisi-yang-dialami-korban-kdrt,6"
+            }'
+            handle-as="json">
+          </iron-ajax>
+    <!-- IRON AJAX -->
+
+    <script type='text/javascript'>
+        document.onreadystatechange = function () {
+            if (document.readyState == "complete"){
+                console.log("ready!");
+                // create cookies previous_url
+                document.cookie = "previous_url=" + window.location.pathname+";path=/";
+            }
+
+            /**
+             * Track depth scroll
+             */
+            var currentDepthScroll = 0;
+
+            function trackDepthScroll() {
+
+                var bottom  = window.pageYOffset + window.innerHeight;
+                var height  = document.body.clientHeight;
+                var percent = (bottom/height)*100;
+                var done25 = false;
+                var done50 = false;
+                var done75 = false;
+                var done100 = false;
+
+                if (percent >= 25 && currentDepthScroll < 25 && done25 == false) {
+                    done25 = true;
+                    currentDepthScroll = 25;
+                    console.log("GA Type : "+ window.GAPageType);
+                    console.log('Scroll Depth 25%');
+                    ga('send', 'event', 'Scroll Depth', window.GAPageType, '25%');
+                }
+
+                if (percent >= 50 && currentDepthScroll < 50 && done50 == false) {
+                    done50 = true;
+                    currentDepthScroll = 50;
+                    console.log('Scroll Depth 50%');
+                    ga('send', 'event', 'Scroll Depth', window.GAPageType, '50%');
+                }
+
+                if (percent >= 75 && currentDepthScroll < 75 && done75 == false) {
+                    done75 = true;
+                    currentDepthScroll = 75;
+                    console.log('Scroll Depth 75%');
+                    ga('send', 'event', 'Scroll Depth', window.GAPageType, '75%');
+                }
+
+                if (percent >= 100 && currentDepthScroll < 99 && done100 == false) {
+                    done100 = true;
+                    currentDepthScroll = 100;
+                    console.log('Scroll Depth 100%');
+                    ga('send', 'event', 'Scroll Depth', window.GAPageType, '100%');
+                }
+
+            }
+
+            /**
+            * Tracking view of the article wall
+            */
+            var onceGAParam = false;
+
+            function isInViewport(el) {
+                const rect = el.getBoundingClientRect();
+                return (
+                    rect.top >= 0 &&
+                    rect.left >= 0 &&
+                    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+                    rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+                );
+            }
+
+            window.onscroll = function() {
+                trackDepthScroll();
+                
+                const box = document.querySelector('.wall-container');
+                if(box) {
+                    if(!onceGAParam && isInViewport(box)) {
+                        console.log('The Article wall is visible');
+                        ga('send', 'event', 'Article Wall', 'Article Wall View', window.location.href);
+                        onceGAParam = true
+                    }
+                }
+            }
+
+            /**
+             * Tracking click the button in the article wall
+             */
+            const articleWallButton = document.getElementById('buttonGetAlodokter');
+            if (articleWallButton) {
+                articleWallButton.addEventListener('click', e => {
+                    e.stopImmediatePropagation();
+                    ga('send', 'event', 'Article Wall', 'Article Wall Click', window.location.href);
+                });
+            }
+        };
+    </script>
+    <script type='text/javascript'>
+        (function() {
+            function getScript(url,success){
+                var script=document.createElement('script');
+                script.src=url;
+                var head=document.getElementsByTagName('head')[0],
+                    done=false;
+                script.onload=script.onreadystatechange = function(){
+                    if ( !done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete') ) {
+                        done=true;
+                        success();
+                        script.onload = script.onreadystatechange = null;
+                        head.removeChild(script);
+                    }
+                };
+                head.appendChild(script);
+              }
+            //getScript('/assets/application-1e965ee7180075d5489f58ae814fa9ee752f72c8abc42a5da64f911f7cc7b73a.js',function(){});
+        })();
+    </script>
+    
+     <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-52W4MMF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script>
+    function sendEventGA4(data) {
+        const metaUserId = document.head.querySelector('meta[name="user_id"][content]') ? document.head.querySelector('meta[name="user_id"][content]').content : ''
+        const contentGroup = localStorage.getItem('content_group')
+        if(dataLayer) {
+            window.dataLayer.push(function() { this.reset(); });
+            if (metaUserId) data["user_id"] = metaUserId
+            if (contentGroup) data["content_group"] = contentGroup // re-add content_group
+            dataLayer.push(data);
+        }
+    }
+
+    function getFromDataLayer(key) {
+        let result = null
+        dataLayer.push(function() { 
+            let value = this.get(key)
+            if (value) {
+                result = value;
+            }
+        })
+        return result
+    }
+</script>
+</body>
+</html>
